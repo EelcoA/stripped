@@ -1,5 +1,5 @@
 # AESSET Resource Manager
-
+test
 ## Installation instructions
 For local deployment you can run it in 2 ways: 
 - in Docker on your pc
