@@ -2,6 +2,7 @@
 test
 
 Some changes to test how things work
+And some more changes
 
 ## Installation instructions
 For local deployment you can run it in 2 ways: 
