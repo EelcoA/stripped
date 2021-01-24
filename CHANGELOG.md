@@ -1,7 +1,7 @@
 Changelog for xyz
 =================
 
-1.1.1 (unreleased)
+1.1.1 (2021-01-24)
 ------------------
 
 - testing prerelase entry point
