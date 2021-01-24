@@ -1,7 +1,7 @@
 Changelog for xyz
 =================
 
-1.0.0 (unreleased)
+1.0.0 (2021-01-24)
 ------------------
 
 - [RM-196](https://aesset.atlassian.net/browse/RM-196) En weer wat via addchangelogentry
