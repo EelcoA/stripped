@@ -4,6 +4,8 @@ Changelog for xyz
 0.1.4 (unreleased)
 ------------------
 
+- [RM-196](https://aesset.atlassian.net/browse/RM-196) En weer wat via addchangelogentry
+
 - [RM-95](https://aesset.atlassian.net/browse/RM-95) Changes correction for 0.1.4
 
 - [RM-95](https://aesset.atlassian.net/browse/RM-95) Changes for 0.1.4
