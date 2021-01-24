@@ -1,7 +1,7 @@
 Changelog for xyz
 =================
 
-0.1.3 (unreleased)
+0.1.3 (2021-01-24)
 ------------------
 
 - RE-100 Changed README with some changes
