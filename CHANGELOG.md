@@ -4,7 +4,7 @@ Changelog for xyz
 0.1.4 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- [RM-95](https://aesset.atlassian.net/browse/RM-95] Changes for 0.1.5
 
 
 0.1.3 (2021-01-24)
