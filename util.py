@@ -1,12 +1,18 @@
+import logging
 import markdown
 
+from zest.releaser.utils import execute_command
+
+logger = logging.getLogger(__name__)
+
 def convert_changelog_to_html(data):
+    logger.info("Convert CHANGELOG.md to CHANGELOG.html")
     with open('CHANGELOG.md', 'r') as f:
         text = f.read()
         html = markdown.markdown(text)
 
 
-    with open('templates/changelog.html', 'w') as f:
+    with open('templates/CHANGELOG.html', 'w') as f:
         f.write("{% extends '_base.html' %}\n")
         f.write("{% load static %}\n")
         f.write("{% block title %}NPO-RM Changelog {% endblock title %}\n")
@@ -16,3 +22,6 @@ def convert_changelog_to_html(data):
         f.write(html)
         f.write("\n</div>\n")
         f.write("{% endblock content %}\n")
+
+    execute_command(["git", "add", "."])
+    execute_command(["git", "commit", "-a", "-m", "new CHANGELOG.html"])
