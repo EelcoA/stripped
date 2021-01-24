@@ -4,7 +4,7 @@ test
 Some changes to test how things work
 And some more changes
 
-Changes for 0.1.5 Xxxxxxxxxxxxxxxxxxxxxxxx
+Changes for 0.1.4 Xxxxxxxxxxxxxxxxxxxxxxxx
 
 ## Installation instructions
 For local deployment you can run it in 2 ways: 
