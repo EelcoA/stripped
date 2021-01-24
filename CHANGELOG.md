@@ -4,7 +4,7 @@ Changelog for xyz
 1.1.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Testing git commits log II
 
 
 1.1.1 (2021-01-24)
