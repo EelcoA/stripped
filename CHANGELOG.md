@@ -1,7 +1,7 @@
 Changelog for xyz
 =================
 
-1.1.0 (unreleased)
+1.1.0 (2021-01-24)
 ------------------
 
 - [RM-101](https://aesset.atlassian.net/browse/RM-101) Lekker bezig voor versie 1.1.0
