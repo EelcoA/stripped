@@ -4,6 +4,8 @@ Changelog for xyz
 0.1.3 (unreleased)
 ------------------
 
+- RE-100 Changed README with some changes
+
 - RE-99 Changed README with some changes
 
 
