@@ -8,9 +8,7 @@ Changelog for xyz
 
 - [RM-95](https://aesset.atlassian.net/browse/RM-95) Changes for 0.1.4
 
-- [RM-95](https://aesset.atlassian.net/browse/RM-95] Changes for 0.1.4
-
-- [RM-95](https://aesset.atlassian.net/browse/RM-95] Changes for 0.1.5
+- [RM-195](https://aesset.atlassian.net/browse/RM-195) Gewoon wat met de hand toegevoegd aan de Changelog
 
 
 0.1.3 (2021-01-24)
