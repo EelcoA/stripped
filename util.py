@@ -7,12 +7,12 @@ def convert_changelog_to_html(data):
 
 
     with open('templates/changelog.html', 'w') as f:
-        f.write("{% extends '_base.html' %}")
-        f.write("{% load static %}")
-        f.write("{% block title %}NPO-RM Changelog {% endblock title %}")
-        f.write("{% block content %}")
-        f.write("<div class='container-fluid pl-3'>")
-        f.write("<br>")
+        f.write("{% extends '_base.html' %}\n")
+        f.write("{% load static %}\n")
+        f.write("{% block title %}NPO-RM Changelog {% endblock title %}\n")
+        f.write("{% block content %}\n")
+        f.write("<div class='container-fluid pl-3'>\n")
+        f.write("<br>\n")
         f.write(html)
-        f.write("</div>")
-        f.write("{% endblock content %}")
+        f.write("\n</div>\n")
+        f.write("{% endblock content %}\n")
